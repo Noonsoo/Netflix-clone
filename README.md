@@ -1,5 +1,23 @@
 # Getting Started with Create React App and Redux
 
+Netflix App Clone, Netflix clone using React,Redux, Webhooks, Firebase... 👇
+
+Technologies used ⏩ React
+
+⏩ Redux
+⏩ Google Auth
+⏩ Firebase
+
+Features 👉 Complete Netflix official App 💻
+
+👉 Authenticated SignIn/SignUp Functionality with Firebase 🔑
+
+👉 100% Mobile responsive 📱 ️
+
+👉 State Mangement fully handled by Redux
+
+Live Demo https://netflix-yt-f8e8d.web.app/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Available Scripts
